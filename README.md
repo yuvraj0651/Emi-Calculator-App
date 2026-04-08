@@ -19,7 +19,6 @@ A modern EMI (Equated Monthly Installment) Calculator application that helps use
 - 🔄 Dynamic UI updates on input changes
 - 🎯 Clean and user-friendly financial UI
 - 📱 Fully responsive design
-- 🌙 Dark mode support
 
 ---
 
