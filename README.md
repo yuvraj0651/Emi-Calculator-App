@@ -1,4 +1,4 @@
-# 💰 EMI Calculator App 🚀
+# 💰 EMI Calculator App 
 
 ## 📌 Overview
 A modern EMI (Equated Monthly Installment) Calculator application that helps users calculate loan EMIs instantly based on loan amount, interest rate, and tenure. Designed to simulate real-world financial tools with accurate calculations and a clean user interface.
