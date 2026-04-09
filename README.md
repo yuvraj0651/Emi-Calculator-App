@@ -3,6 +3,13 @@
 ## 📌 Overview
 A modern EMI (Equated Monthly Installment) Calculator application that helps users calculate loan EMIs instantly based on loan amount, interest rate, and tenure. Designed to simulate real-world financial tools with accurate calculations and a clean user interface.
 
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Calculator](https://img.shields.io/badge/Calculator-Logic-blue?style=for-the-badge)
+![Finance](https://img.shields.io/badge/Finance-App-green?style=for-the-badge)
+![EMI](https://img.shields.io/badge/EMI-Calculator-orange?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ---
 
 ## 🛠️ Tech Stack
