@@ -1,4 +1,4 @@
-# 💰 EMI Calculator App 
+# 💰 SmartEMI – EMI Calculator Web App
 ![Emi-Calculator](https://github.com/user-attachments/assets/2d911730-9b64-45c3-bfd4-0ea9eb1606ee)
 
 ## 📌 Overview
@@ -45,6 +45,16 @@ A modern EMI (Equated Monthly Installment) Calculator application that helps use
 - 📊 Graphs & charts for payment visualization
 - 💾 Save calculation history
 - 🌐 Multi-currency support
+
+---
+
+## 🔗 Live Demo 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://smartemi-app.netlify.app/)
+
+## 🌐 Deployment
+
+Deployed on Netlify  
+🔗 https://smartemi-app.netlify.app/
 
 ---
 
