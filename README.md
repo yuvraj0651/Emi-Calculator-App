@@ -1,4 +1,5 @@
 # 💰 EMI Calculator App 
+![Emi-Calculator](https://github.com/user-attachments/assets/2d911730-9b64-45c3-bfd4-0ea9eb1606ee)
 
 ## 📌 Overview
 A modern EMI (Equated Monthly Installment) Calculator application that helps users calculate loan EMIs instantly based on loan amount, interest rate, and tenure. Designed to simulate real-world financial tools with accurate calculations and a clean user interface.
